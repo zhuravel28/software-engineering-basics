@@ -1,2 +1,2 @@
-# software-engineering-basics
-Основи програмної інженерії
+# Software Engineering BasicsЦей репозиторій містить матеріали курсу
+"Основи програмної інженерії"
