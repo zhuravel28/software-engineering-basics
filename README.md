@@ -1,2 +1,2 @@
-# Software Engineering BasicsЦей репозиторій містить матеріали курсу
+# Software Engineering Basics Цей репозиторій містить матеріали курсу
 "Основи програмної інженерії"
